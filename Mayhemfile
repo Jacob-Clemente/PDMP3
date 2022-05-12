@@ -1,0 +1,5 @@
+project: jacob-clemente/PDMP3
+target: pdmp3
+
+cmds:
+  - cmd: /pdmp3 @@
